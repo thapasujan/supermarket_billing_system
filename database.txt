@@ -1,0 +1,6 @@
+ 1 chips 20 2
+ 2 donot 20 5
+ 3 apple 300 20
+ 4 noodles 50 5
+ 55 sprite 140 10
+ 23 doll 200 10
